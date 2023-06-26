@@ -1,5 +1,5 @@
-@import url("/fonts/style.css");
-@import url("/fonts/style1.css");
+@import url("../fonts/style.css");
+@import url("../fonts/style1.css");
 
 html {
   font-family: 'Muller';
@@ -33,14 +33,14 @@ ul {
 
 .link-cabinet:hover {
   color: #F0BF5F;
-  background: url('/img/yellow-arrow.svg');
+  background: url('../img/yellow-arrow.svg');
   background-repeat: no-repeat;
   background-position-y: 2px;
 }
 
 .service-link:hover {
   color: #F0BF5F;
-  background: url('/img/hover-right.svg');
+  background: url('../img/hover-right.svg');
   background-repeat: no-repeat;
   background-position: 98%;
   background-position-y: 1px;
@@ -48,7 +48,7 @@ ul {
 
 .another-choice:hover {
   color: #F0BF5F;
-  background-image: url('/img/hover-right.svg');
+  background-image: url('../img/hover-right.svg');
   background-repeat: no-repeat;
   background-position-x: 254px;
   background-position-y: 1px;
@@ -103,7 +103,7 @@ ul {
   font-size: 16px;
   line-height: 16px;
   color: #CC9933;
-  background: url('/img/vector.svg');
+  background: url('../img/vector.svg');
   background-repeat: no-repeat;
   background-position-y: 2px;
 }
@@ -192,17 +192,17 @@ ul {
 }
 
 .item-1 {
-  background-image: url('/img/palm1.png');
+  background-image: url('../img/palm1.png');
 }
 
 .item-2 {
   margin-top: 24px;
-  background-image: url('/img/bassein1.png');
+  background-image: url('../img/bassein1.png');
 }
 
 .gradient-shade {
   height: 100%;
-  background-image: url('/img/shade.png');
+  background-image: url('../img/shade.png');
 }
 
 .item-big {
@@ -210,7 +210,7 @@ ul {
   flex-direction: column;
   width: 573px;
   height: 540px;
-  background-image: url('/img/big-item.png');
+  background-image: url('../img/big-item.png');
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 15px;
@@ -264,7 +264,7 @@ ul {
   font-size: 16px;
   line-height: 16px;
   color: #F0BF5F;
-  background-image: url('/img/rec-right.svg');
+  background-image: url('../img/rec-right.svg');
   background-repeat: no-repeat;
   background-position-x: 90px;
   background-position-y: -1px;
@@ -325,7 +325,7 @@ ul {
   font-size: 20px;
   line-height: 200%;
   color: #CC9933;
-  background-image: url('/img/rec-right2.svg');
+  background-image: url('../img/rec-right2.svg');
   background-repeat: no-repeat;
   background-position: 98%;
   background-position-y: 1px;
@@ -412,7 +412,7 @@ ul {
   height: 440px;
   margin-bottom: 0;
   padding-bottom: 0;
-  background-image: url('/img/placing9.png');
+  background-image: url('../img/placing9.png');
   background-repeat: no-repeat;
 }
 
@@ -429,7 +429,7 @@ ul {
   font-size: 20px;
   line-height: 200%;
   color: #FFFFFF;
-  background-image: url('/img/arrow-white.svg');
+  background-image: url('../img/arrow-white.svg');
   background-repeat: no-repeat;
   background-position-x: 254px;
   background-position-y: 1px;
@@ -578,7 +578,7 @@ ul {
   font-size: 16px;
   line-height: 16px;
   color: #000000;
-  background-image: url('/img/arrow-down.svg');
+  background-image: url('../img/arrow-down.svg');
   background-repeat: no-repeat;
   background-position-x: 155px;
   background-position-y: 3px;
@@ -691,7 +691,7 @@ ul {
   margin-bottom: 30px;
   background: #333333;
   border-radius: 15px;
-  background-image: url('/img/logo-footer.png');
+  background-image: url('../img/logo-footer.png');
   background-repeat: no-repeat;
   background-position: 80% 100%;
 }
